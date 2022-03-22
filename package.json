@@ -3,6 +3,12 @@
   "description": "An eCommerce application utilizing the latest technologies so as to remain at the apex of competition.",
   "version": "1.0.0",
   "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AndyAn7/eCommerce-backEnd.git"
@@ -20,9 +26,6 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  },
-  "scripts": {
-    "start": "node server.js"
   },
   "homepage": "https://github.com/AndyAn7/eCommerce-backEnd#readme"
 }
