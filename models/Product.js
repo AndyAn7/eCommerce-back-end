@@ -31,6 +31,7 @@ Product.init(
   stock: {
     type: DataTypes.INTEGER,
     allowNull: false,
+    defaultValue: 10,
     validate: {
       isInt: {
         args: true,
@@ -42,7 +43,6 @@ Product.init(
       model: 'category',
       key: 'id',
     }}},
-    // define table
   {
     sequelize,
     timestamps: false,
