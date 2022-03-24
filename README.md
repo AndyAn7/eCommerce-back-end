@@ -32,11 +32,11 @@ An eCommerce application utilizing the latest technologies ( Sequelize, Express.
 
 ## [MockUp](#mockup)
 <a name="mockup"></a>
-<!-- ![image](mockup) -->
+![image](https://github.com/AndyAn7/eCommerce-back-end/blob/main/assets/mockup.png?raw=true)
 
 ## [UI/Video Tutorial of Application](#tutorial)
 <a name="tutorial"></a>
-<!-- [![Tutorial](cover image)](video link) -->
+[![Tutorial](https://github.com/AndyAn7/eCommerce-back-end/blob/main/assets/SS.png?raw=true)](https://www.youtube.com/watch?v=hkb408ztgfY)
 
 ## [User Story](#user)
 <a name="user"></a>
